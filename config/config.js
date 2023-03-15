@@ -1,15 +1,15 @@
 module.exports = {
 
-  Prefix: "?", // Bot prefix
+  Prefix: "?", // YOUR BOT PREFIX
   Users: {
-    OWNERS: ["1085658584064467026", "1085658584064467026"] // The owners id
+    OWNERS: ["1085658584064467026", "1085658584064467026"] // THE BOT OWNERS ID.
   },
-  Handlers},: {
-    MONGO: "" // Your mongodb
+  Handlers: {
+    MONGO: "" // YOUR MONGO URI. (USE THIS ONLY IN VSCODE)
   },
   Client: {
-    TOKEN: "", // Your bot token
-    ID: "" // Your Bot ID
+    TOKEN: "MTA4NTY3NjY0MzUyOTUyNzMzNg.G68tyC.mfqqg_HQXetNxY9ptCZx_fSQTcZqGDkTv9Ylw0", // YOUR BOT TOKEN. (USE THIS ONLY IN VSCODE)
+    ID: "1085676643529527336" // YOUR BOT ID.
   }
 
 }
