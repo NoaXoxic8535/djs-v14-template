@@ -16,6 +16,6 @@ module.exports = {
 
 /************************************
  * Bot Owner: @NoaXoxic8535
- * Template Made By: discord.gg/gkvwcrDS5Y
+ * Template Made By: https://discord.gg/4Td66BDDgg
  * Everything is Setup for you Just add commands and it will work!
  ************************************/
